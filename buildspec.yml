@@ -6,9 +6,10 @@ phases:
       - echo nothing to do yet
   post_build:
     commands:
-      - echo Build completed on `date`    
+      - echo Build completed on `date`
 artifatcs:
-  - index.html
-  - favicon.ico
-  - styles/main
-  - images/*
+  files:
+    - index.html
+    - favicon.ico
+    - styles/main
+    - images/*
