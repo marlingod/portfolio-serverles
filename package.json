@@ -34,7 +34,6 @@
     "babel-preset-es2016": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "enzyme": "^3.3.0",
-    "enzyme-adapter-react-15": "^1.0.5",
     "enzyme-adapter-react-16": "^1.1.1",
     "jest": "^22.2.2",
     "regenerator-runtime": "^0.11.1",
